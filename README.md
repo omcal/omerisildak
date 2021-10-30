@@ -1,5 +1,5 @@
 ### Hi there 👋
-![omerisildak's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerisildak&show_icons=true&theme=tokyonight)
+![omerisildak's GitHub stats](https://github-readme-stats.vercel.app/api?username=omerisildak&?count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
 **omerisildak/omerisildak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
